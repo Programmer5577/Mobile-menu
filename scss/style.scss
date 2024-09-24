@@ -1,76 +1,10 @@
-@import "variable.scss";
-@import "font.scss";
+@import "__variable.scss";
+@import "__font.scss";
 
-body { 
-    margin: 0;
-    padding: 0;  
-    background-color: gray;
+body {
+  margin: 0;
+  padding: 0;
+  background-color: gray;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-@import "media.scss"; 
+@import "__media.scss";
