@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="33" height="20" fill="none" viewBox="0 0 33 20">
+  <g filter="url(#a)">
+    <ellipse cx="9.75" cy="9" fill="#fff" rx="7.75" ry="8"/>
+  </g>
+  <g clip-path="url(#b)">
+    <path stroke="#FFB04B" stroke-linecap="round" stroke-linejoin="round" d="M10 11.5a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5Zm0-8v1m0 9v1M6.11 5.11l.71.71m6.36 6.36.71.71M4.5 9h1m9 0h1m-9.39 3.89.71-.71m6.36-6.36.71-.71"/>
+  </g>
+  <defs>
+    <clipPath id="b">
+      <path fill="#fff" d="M0 0h12v12H0z" transform="translate(4 3)"/>
+    </clipPath>
+    <filter id="a" width="19.5" height="20" x="0" y="0" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+      <feOffset dy="1"/>
+      <feGaussianBlur stdDeviation="1"/>
+      <feColorMatrix values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.15 0"/>
+      <feBlend in2="BackgroundImageFix" result="effect1_dropShadow_505_214"/>
+      <feBlend in="SourceGraphic" in2="effect1_dropShadow_505_214" result="shape"/>
+    </filter>
+  </defs>
+</svg>
